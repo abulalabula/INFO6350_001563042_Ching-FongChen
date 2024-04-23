@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "662824272658",
+    "project_id": "neu-001563042",
+    "storage_bucket": "neu-001563042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662824272658:android:4881c57ffef7d2504da9cb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662824272658-3ss7p6oupfr6gqai1rfg0j5g6ad4dbo9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_final",
+            "certificate_hash": "83734585048b291db36999e3ffc5d1d8e7cc9c56"
+          }
+        },
+        {
+          "client_id": "662824272658-ruvfovtvghs6o7quu1332m7n3rc55gc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAntND9Vxzzim4CBQf4GEv4_UoSEztsYhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662824272658-ruvfovtvghs6o7quu1332m7n3rc55gc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662824272658-5ggvfflf8vp1vbm8f0ktn1lobqskmt3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.todolistwinter001563042"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662824272658:android:e0d9b69bbfd5a3d94da9cb",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662824272658-ruvfovtvghs6o7quu1332m7n3rc55gc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAntND9Vxzzim4CBQf4GEv4_UoSEztsYhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662824272658-ruvfovtvghs6o7quu1332m7n3rc55gc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662824272658-5ggvfflf8vp1vbm8f0ktn1lobqskmt3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.todolistwinter001563042"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662824272658:android:39d9091f7f3f42a14da9cb",
+        "android_client_info": {
+          "package_name": "com.mycompany.todolistwinter001563042"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662824272658-1ob2vkljlslsdfkvu2j1prin89k9lq3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.todolistwinter001563042",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "662824272658-ruvfovtvghs6o7quu1332m7n3rc55gc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAntND9Vxzzim4CBQf4GEv4_UoSEztsYhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662824272658-ruvfovtvghs6o7quu1332m7n3rc55gc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "662824272658-5ggvfflf8vp1vbm8f0ktn1lobqskmt3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.todolistwinter001563042"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
