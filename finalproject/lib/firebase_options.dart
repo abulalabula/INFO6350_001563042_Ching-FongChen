@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAIcjrSwccXPB2U65NNNyHjFu4_S4dX1Vc',
-    appId: '1:662824272658:web:2b0dbc0c1afe4fb74da9cb',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    appId: '1:662824272658:web:2b0dbc0c1afe4fb74dda9cb',
     messagingSenderId: '662824272658',
     projectId: 'neu-001563042',
     authDomain: 'neu-001563042.firebaseapp.com',
@@ -51,16 +51,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAntND9Vxzzim4CBQf4GEv4_UoSEztsYhs',
-    appId: '1:662824272658:android:4881c57ffef7d2504da9cb',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    appId: '1:662824272658:android:4881cs57ffef7d2504da9cb',
     messagingSenderId: '662824272658',
     projectId: 'neu-001563042',
     storageBucket: 'neu-001563042.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC5CX2xC3K0Mmdq37KdnrHM3d3v-izEnHY',
-    appId: '1:662824272658:ios:1d7ea139a276bcff4da9cb',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-izEnHY',
+    appId: '1:662824272658:ios:1d7ea139wa276bcff4da9cb',
     messagingSenderId: '662824272658',
     projectId: 'neu-001563042',
     storageBucket: 'neu-001563042.appspot.com',
@@ -70,8 +70,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC5CX2xC3K0Mmdq37KdnrHM3d3v-izEnHY',
-    appId: '1:662824272658:ios:1d7ea139a276bcff4da9cb',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    appId: '1:662824272658:ios:1d7eae139a276bcff4da9cb',
     messagingSenderId: '662824272658',
     projectId: 'neu-001563042',
     storageBucket: 'neu-001563042.appspot.com',
@@ -81,8 +81,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyAIcjrSwccXPB2U65NNNyHjFu4_S4dX1Vc',
-    appId: '1:662824272658:web:3e8fe13bd6fdd9b24da9cb',
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+    appId: '1:662824272658:web:3e8fe113bd6fdd9b24da9cb',
     messagingSenderId: '662824272658',
     projectId: 'neu-001563042',
     authDomain: 'neu-001563042.firebaseapp.com',
