@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+packages/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Build outputs
+/build/
+/dist/
+*.apk
+*.ipa
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
